@@ -11,3 +11,4 @@ Gaiagov2023/Gaiagov2023 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 [Scope of work 9 .pdf](https://github.com/user-attachments/files/16393671/Scope.of.work.9.pdf)
+https://docs.google.com/document/d/1Z_O98fQG1PS3JF9fvA1K9iCneqlZhFiMNjVmkH7iiY0/edit?usp=sharing
